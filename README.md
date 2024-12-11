@@ -1,5 +1,13 @@
 # Design Petterns
 
+# Calculadora em Python com Design Patterns
+
+Este projeto é uma calculadora de linha de comando (CMD) criada em Python para demonstrar a aplicação de **5 tipos de Design Patterns**. Ele é simples, funcional e ideal para quem está estudando padrões de projeto e quer ver exemplos práticos em um contexto real.
+
+## 🎯 Objetivo
+
+O objetivo deste projeto é mostrar como implementar padrões de design amplamente utilizados na engenharia de software, aplicando-os a uma calculadora. Cada padrão foi usado para resolver problemas específicos no design do programa, melhorando a organização, reutilização de código e escalabilidade.
+
 ---
 
 ### 1. **Singleton (Logger)**
